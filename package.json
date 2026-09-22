@@ -1,0 +1,15 @@
+{
+  "name": "refcolorsync",
+  "displayName": "RefColorSync",
+  "description": "Sync colors from a reference and progressively auto-paint empty pixels",
+  "version": "2.0.0",
+  "author": "RefColorSync Team",
+  "categories": ["Scripts"],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./main.lua"
+      }
+    ]
+  }
+}
