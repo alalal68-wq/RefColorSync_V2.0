@@ -14,8 +14,8 @@
 </p>
 
 <p>
-<a href="https://github.com/alalal68-wq/RefColorSync_V2.0/releases/latest/download/RefColorSync.aseprite-extension">
-<img src="https://img.shields.io/badge/⬇%20Скачать%20последнюю%20версию-RefColorSync.aseprite--extension-blue?style=for-the-badge&logo=github" alt="Скачать последнюю версию">
+<a href="https://github.com/alalal68-wq/RefColorSync_V2.0/releases/latest/download/RefColorSync_v2.0.0.zip">
+<img src="https://img.shields.io/badge/⬇%20Скачать%20последнюю%20версию-RefColorSync_v2.0.0.zip-blue?style=for-the-badge&logo=github" alt="Скачать последнюю версию">
 </a>
 </p>
 
