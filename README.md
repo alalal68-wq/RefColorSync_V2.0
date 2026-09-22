@@ -9,8 +9,14 @@
 <p>
 <a href="https://www.aseprite.org/"><img src="https://img.shields.io/badge/Aseprite-v1.3%2B-7d5ba6?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License"></a>
-<a href="#"><img src="https://img.shields.io/badge/version-2.0.0-2ea44f?style=for-the-badge" alt="Version"></a>
+<a href="https://github.com/alalal68-wq/RefColorSync_V2.0/releases/latest"><img src="https://img.shields.io/github/v/release/alalal68-wq/RefColorSync_V2.0?style=for-the-badge&color=2ea44f" alt="Latest release"></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge" alt="Platform"></a>
+</p>
+
+<p>
+<a href="https://github.com/alalal68-wq/RefColorSync_V2.0/releases/latest/download/RefColorSync.aseprite-extension">
+<img src="https://img.shields.io/badge/⬇%20Скачать%20последнюю%20версию-RefColorSync.aseprite--extension-blue?style=for-the-badge&logo=github" alt="Скачать последнюю версию">
+</a>
 </p>
 
 **Расширение для Aseprite, которое берёт цвет из референс-слоя прямо под курсором и умеет само,
