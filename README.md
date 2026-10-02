@@ -78,9 +78,7 @@
 <img src="screenshots/05-layer-properties-reference.png" alt="Layer Properties со слоем Reference" width="420">
 </div>
 
-<div align="center">
-<img src="screenshots/06-crop-comparison.png" alt="Сравнение до и после Auto-Paint" width="640">
-</div>
+
 
 ---
 
